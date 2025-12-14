@@ -85,5 +85,3 @@ python music_player.py
 
 ---
 
-⭐ If you like this project, don’t forget to **star the repository**!
-
